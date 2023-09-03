@@ -8,3 +8,22 @@ This wasn't tested. Even myself don't know if this works.
 I need testers. Contact me on my Discord: omegapobretonario
 
 plz no insults
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i fucked up by putting in the commit text thing "how to use git :]", don't think about it plz
