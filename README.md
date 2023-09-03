@@ -26,4 +26,4 @@ plz no insults
 
 
 
-i fucked up by putting in the commit text thing "how to use git :]", don't think about it plz
+i fucked up by putting in the commit text thing "how to use git :]" in every file, don't think about it plz
